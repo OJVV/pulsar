@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { Modal, ModalContent, ModalBody, Button, useDisclosure } from "@heroui/react";
 import { Icon } from '@iconify/react';
 import { galleryItems } from '../data/gallery';
+import GalleryItem from '../components/gallery-item';
 import foto2 from '../assets/nahum.jpg';
 import flyer1 from '../assets/flyer.jpg';
 import flyer2 from '../assets/flyer1.jpg';
