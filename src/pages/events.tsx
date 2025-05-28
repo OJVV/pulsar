@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { events } from '../data/events';
 import EventCard from '../components/event-card';
+import { Icon } from '@iconify/react'; 
 import imagen from '../assets/nahum.jpg';
 import flyer1 from '../assets/flyer.jpg';
 import flyer2 from '../assets/flyer1.jpg';
